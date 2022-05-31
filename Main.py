@@ -1,10 +1,5 @@
 import arrLib as al
 
-# Виконано 22/33
-
-##########
-# ARRAYS #
-##########
 print("\n| main.py\n")
 def ARRAYS():
 
